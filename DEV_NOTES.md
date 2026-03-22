@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 - Refactored module structure for clarity
 - Added healthcheck endpoint stub
 - Updated license year
+
+## 2026-03-23
+- Improved log message formatting
+- Tidied up project structure
+- Documented config options
