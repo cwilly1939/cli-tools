@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Tidied up project structure
 - Documented config options
+
+## 2026-03-23
+- Improved error handling in edge cases
+- Wrote notes on upcoming feature design
+- Cross-checked behaviour against spec
