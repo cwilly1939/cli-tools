@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Tidied up project structure
 - Verified compatibility with latest runtime version
+
+## 2026-03-23
+- Refactored module structure for clarity
+- Added healthcheck endpoint stub
+- Updated license year
