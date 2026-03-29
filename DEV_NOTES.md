@@ -32,3 +32,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Documented config options
 - Reorganised test fixtures
+
+## 2026-03-30
+- Cross-checked behaviour against spec
+- Verified API endpoint response schema
+- Wrote notes on upcoming feature design
