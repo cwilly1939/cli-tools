@@ -28,3 +28,7 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Wrote notes on upcoming feature design
 - Cross-checked behaviour against spec
+
+## 2026-03-30
+- Documented config options
+- Reorganised test fixtures
